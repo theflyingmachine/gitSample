@@ -8,4 +8,8 @@ grapes
 orange
 pineapple
 love apple
+<<<<<<< HEAD
 
+=======
+jackfruit
+>>>>>>> nikitha
