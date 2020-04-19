@@ -1,11 +1,9 @@
-<html>
-<body>
-<h1>
-Hello this is a new file. this line was added by eric...Again I added something
-</h1>
-<h7>
-hello Eric
-</h7>
-</body>
-</html>
-
+This is a clone from Eric REPO.. I think we should keep this file for fruites
+Let's list down few fruites...
+apple
+mango
+BANANA
+grapes
+orange
+pineapple
+love apple
