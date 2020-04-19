@@ -1,17 +1,6 @@
-<<<<<<< Updated upstream
-Deleting eveything beaues its not a html file...
-
-we will keep plain text in this file.
-
-
-How much did you understand???
-
-Let's list down few fruites...
-=======
 ======================
 LIST OF FRUITES.....
 ======================
->>>>>>> Stashed changes
 apple
 mango
 BANANA
