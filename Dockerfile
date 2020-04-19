@@ -5,7 +5,7 @@ RUN apt-get update
 RUN apt-get -y install git
 RUN mkdir /home/code && \  
            cd /home/code && \
-           git clone https://github.com/nikithapk/gitSample.git && \
+           git clone https://github.com/theflyingmachine/gitSample.git && \
 		   cp -r /home/code/gitSample/* /var/www/html
 #COPY src/ /var/www/html
 EXPOSE 80
