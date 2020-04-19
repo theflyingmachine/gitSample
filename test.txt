@@ -3,6 +3,7 @@ LIST OF FRUITES.....
 ======================
 apple
 mango
+blueberry
 grapes
 orange
 pineapple
