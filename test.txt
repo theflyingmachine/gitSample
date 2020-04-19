@@ -1,11 +1,3 @@
-<html>
-<body>
-<h1>
-Hello this is a new file. this line was added by eric...Again I added something
-</h1>
-<h7>
-hello Eric
-</h7>
-</body>
-</html>
+Deleting eveything beaues its not a html file...
 
+we will keep plain text in this file.
