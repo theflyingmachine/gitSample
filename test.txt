@@ -6,3 +6,4 @@ mango
 BANANA
 grapes
 orange
+pineapple
