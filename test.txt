@@ -1,10 +1,4 @@
-Deleting eveything beaues its not a html file...
-
-we will keep plain text in this file.
-
-
-How much did you understand???
-
+This is a clone from Eric REPO.. I think we should keep this file for fruites
 Let's list down few fruites...
 apple
 mango
